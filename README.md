@@ -71,3 +71,6 @@ And we will see something like this:
 ![Captura desde 2023-02-12 03-24-37](https://user-images.githubusercontent.com/41242212/218300033-ad1b1bae-f359-4fdb-b9da-8f7594de23ba.png)
 
 And voila, by completing this step, we already have our DEV ENV configured!!!
+  
+# My Concordium Mainnet Wallet Address: 
+# 3kKn2kz9YHrkrKUcBZF9NUJbg8LqGzcBbLwzH1VPBdPk1QQE4v
